@@ -42,4 +42,7 @@ Application created with the help of Atom program and deployed to Github.
 
 -Author can be contacted via kelvinmaina14@gmail.com or +254790367819.
 
-## 
+## license and Copyright
+
+-Application licensed under MIT license act.
+-copyright at Kevin Wanjohi.
