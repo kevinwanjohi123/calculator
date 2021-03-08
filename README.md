@@ -12,7 +12,7 @@ The calculator uses user input variables e.g dd/mm/yy to calculate the Ghanaian 
 
 ## Author's information
 
-- Kevin Wanjohi <kelvinmaina14@gmail.com>
+- Qualified software developer with over 20 years of notable experience and over 100+ applications created and deployed into the market.
 
 ---
 
@@ -30,4 +30,10 @@ The project uses cascade style sheets and javascript functions to run.
  ---
  Outcomes- Point where users gets feedback of his Akan Ghanaian name.
 
- 
+ ---
+
+## Technologies Used
+
+Application created with the help of Atom program and deployed to Github.
+
+---
