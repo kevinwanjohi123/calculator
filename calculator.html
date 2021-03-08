@@ -1,26 +1,38 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Age calculator</title>
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="js/scripts.js"></script>
+    <title>Age calculator</title>
   </head>
   <body>
+    <div class="container">
     <h1>About my <em>birthday calculator!</em></h1>
     <p>The Birthday Calculator can be used to calculate the day of the week  when a user was born.<br>
        The user is required to enter his <strong>day, month, year of birth, and gender</strong> through a form then click the <em>submit button to find out the user's Akan name</em>.
        Akan names are <strong>Ghanaian names</strong> given during birth according to the day of the week a child is born and are also given according to the <strong>gender</strong> of the born child.</p>
+       <h1>Form Data</h1>
+       <form method="POST" onSubmit="submit Function(event)">
+         <label for="century">Century</label>
+         <input id="century" type="text" name="century" /><br/>
 
-    <form method="POST" onSubmit="submitFunction(event)">
-      <label for ="century">Century</label>
-      <input id="century" type="type" name="century"/>
+         <label for="year">Year</label>
+         <input id="year" type="text" name="year" /><br/>
 
+         <label for="month">Month</label>
+         <input id="month" type="text" name="month" /><br/>
 
+         <label for="day">Day</label>
+         <input id="day" type="text" name="day" /><br/>
 
+         <input type="radio" id="male" name="gender" value="male">
+         <label for="male">Male</label><br>
 
+         <input type="radio" id="female" name="gender" value="female">
+         <label for="female">Female</label><br>
 
-
-
-  </body>
-<html>
+          <button type="submit">Submit</button>
+       </form>
+     </div>
+    </body>
+</html>
