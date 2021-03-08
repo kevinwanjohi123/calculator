@@ -13,3 +13,13 @@ The calculator uses user input variables e.g dd/mm/yy to calculate the Ghanaian 
 ## Author's information
 
 - Kevin Wanjohi <kelvinmaina14@gmail.com>
+
+---
+
+## Setup instructions
+
+The project uses cascade style sheets and javascripts to run.
+
+---
+
+## 
