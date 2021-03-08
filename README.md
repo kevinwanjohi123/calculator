@@ -37,3 +37,9 @@ The project uses cascade style sheets and javascript functions to run.
 Application created with the help of Atom program and deployed to Github.
 
 ---
+
+## Contact information
+
+-Author can be contacted via kelvinmaina14@gmail.com or +254790367819.
+
+## 
